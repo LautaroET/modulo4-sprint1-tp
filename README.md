@@ -1,3 +1,10 @@
+#Creado por tapia lautaro
+##Landing Page Catamarca Ajedrez
+###Landing Page que muestra noticias sobre torneo de ajedrez
+###Header:Inicio,Raking,Torneo,Nosotros,Contacto
+###footer:Derecho de autor
+###Main:Mustra las noticias , esta se pasa por una array list
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
